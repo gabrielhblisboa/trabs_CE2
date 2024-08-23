@@ -11,7 +11,7 @@ da análise nodal simples.
 
 ## Trabalho 2
 
-Desenvolvimento de um programa em Python para o cálculo da reposta
+Desenvolvimento de um programa em Python para o cálculo da resposta
 DC ou da resposta em frequência (AC) de um circuito utilizando a análise nodal modificada.
 
 ## Trabalho 3
