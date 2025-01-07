@@ -1,6 +1,6 @@
 # Trabalhos de Circuitos Elétricos II
 
-Os 3 trabalhos desenvolvidos para a disciplina Circuitos Elétricos II na linguagem Python para análise de circuitos, utilizando Análise Nodal Simples e Modificada, Resposta DC e AC, Método de Newton-Raphson, Método dos Trapézios e Análise no Tempo.
+Os 3 trabalhos desenvolvidos na linguagem Python para a disciplina Circuitos Elétricos II, para a análise de circuitos utilizando Análise Nodal Simples e Modificada, Resposta DC e AC, Método de Newton-Raphson, Método dos Trapézios e Análise no Tempo.
 
 ## Trabalho 1
 
